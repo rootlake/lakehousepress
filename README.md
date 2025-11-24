@@ -2,9 +2,9 @@
 
 **A mom & pop indie publisher that supports indie authors**
 
-A simple, modern, and cozy website for Lakehouse Press, showcasing our publishing services, books, and design work.
+Website for our indie publishing company and author services. A simple, modern, and cozy website showcasing our publishing services, books, and design work.
 
-🌐 **Live Site**: [View on GitHub Pages](https://yourusername.github.io/LakehousePress/)
+🌐 **Live Site**: [View on GitHub Pages](https://rootlake.github.io/lakehousepress/)
 
 ## Features
 
@@ -48,7 +48,7 @@ This site is configured for GitHub Pages deployment:
    - Choose `main` branch and `/ (root)` folder
    - Click Save
 
-2. **Your site will be live at**: `https://yourusername.github.io/LakehousePress/`
+2. **Your site will be live at**: `https://rootlake.github.io/lakehousepress/`
 
 The site will automatically rebuild when you push changes to the main branch.
 
@@ -76,5 +76,4 @@ Works in all modern browsers (Chrome, Firefox, Safari, Edge).
 
 ## License
 
-© 2024 Lakehouse Press. All rights reserved.
-
+MIT License - See LICENSE file for details.
