@@ -65,6 +65,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  color: #ebe094;
 }
 
 h3 {
@@ -247,7 +248,7 @@ main {
 }
 
 .card h3 {
-  color: var(--accent-blue-dark);
+  color: #ebe094;
   margin-bottom: 1rem;
 }
 
